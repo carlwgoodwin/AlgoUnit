@@ -1,0 +1,15 @@
+87107776, luXxnqXkdq, Wellington Rd Clayton, VIC3168, (7.0, 19.5), ['ZD485680, dHgUcAyatEkkTVW, 5, 151, 1757, AWD', 'AD790783, XWQiQeLDgtbXPxgGJwbj, 7, 257, 2031, FWD', 'NQ644622, wiapDBgPTvMxDhLMRs, 18, 273, 1975, FWD', 'LM764727, qiOvBfdeDzGbZm, 13, 171, 2368, AWD']
+82108484, lZUZTamUGS, Clayton Rd Mount Waverley, VIC3170, (9.5, 16.0), ['VL605995, ehQNsNCcQnQNKnEhhcY, 14, 181, 1760, FWD', 'PT785014, VExMykiTueTR, 20, 277, 1753, FWD', 'JX034236, xxJJbFEpZkkiIDUc, 6, 214, 2694, RWD', 'ZY353294, NoZXwKeuqoCJLdLCYF, 19, 226, 1970, FWD']
+69488535, LAQjVuHelq, South Rd Moorabbin, VIC3189, (10.0, 17.5), ['TS848276, htyLZKteym, 18, 193, 2397, RWD', 'JX797339, NnvQPHbFqpqjcd, 7, 198, 2683, RWD', 'IU669978, ghoROHsbEHBcVCnqvK, 19, 257, 1504, AWD', 'JT082570, sJWaCWmUsxQFbOMjjdmm, 12, 257, 2553, AWD']
+
+
+
+
+
+
+
+
+
+
+
+
